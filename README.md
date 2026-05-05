@@ -30,18 +30,9 @@ Focado em **Python** para automação de tarefas de rede e infraestrutura — sc
 
 ## 📊 Estatísticas do GitHub
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Fabiofs15&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=Fabiofs15&theme=tokyonight&hide_border=true"/>
-    </td>
-  </tr>
-</table>
-
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Fabiofs15&theme=tokyonight&hide_border=true&locale=pt_BR"/>
+</div>
 
 ---
 
